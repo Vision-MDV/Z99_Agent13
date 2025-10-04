@@ -1,2 +1,3 @@
-# Z99_Agent13
-Wonderland
+# ABBA Z99 Seed
+
+OmniVision boot protocol with Ziggy, RaZai'El, and substrate logic.
